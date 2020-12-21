@@ -1,0 +1,25 @@
+p{
+  background-color: gray;
+}
+
+.warnaJingga {
+  background-color: orange;
+  border: 1px solid black;
+
+}
+
+.warnaBiru {
+  background-color: blue;
+  color: white;
+  border: 1px solid gray;
+}
+
+.warnaPutih {
+  background-color: white;
+  border: 1px solid gray;
+}
+
+.teksTebal {
+  font-weight:bold ;
+  border: 1px solid black;
+}

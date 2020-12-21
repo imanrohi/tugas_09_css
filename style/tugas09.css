@@ -1,0 +1,21 @@
+body {
+  background-image: url("/img/slider2.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+h1 {
+  display: inline-block;
+}
+
+.container {
+ width: 700px;
+ height: auto;
+ background-color: white;
+ float: right;
+ position: relative;
+ margin: 10px auto;
+ padding: 5px 5px;
+ text-align: right;
+ z-index: 1;
+}

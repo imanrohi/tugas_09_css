@@ -1,0 +1,45 @@
+header {
+  line-height: 100%;
+  margin-bottom: 0.5em;
+}
+
+main {
+  margin-bottom: 0.5em;
+}
+
+
+
+.div_menu {
+  background-color: black;
+  font-size: 15px;
+
+}
+.menu {
+  text-transform: uppercase;
+  font-size: 15px;
+  color: white;
+}
+
+.slider-div {
+  text-align: center;
+}
+
+.slider
+
+div p {
+  text-align: justify;
+}
+
+footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+.footer {
+  font-size: 15px;
+}
+
+.footer-alamat {
+  font-size: 9px;
+}
